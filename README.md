@@ -1,5 +1,9 @@
 # Simple-PID-tuning-example-using-MATLAB
-This MATLAB code demostrates how to tune a PID controller to minimize the steady state error, overshoot,settling time by tuning the values of Kp, Ki, and Kd.
-In this case, the PI control yields the best result.
+Total 5 graphs are shown-
+- open loop
+- closed loop with P controller
+- closed loop with PD controller
+- closed loop with PI controller
+- closed loop with PID controller
 <br>
 For reference, BOOK- Modern Control Engineering by Katsuhito Ogata
